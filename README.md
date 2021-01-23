@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi!
+So what should I do >_<
